@@ -1,0 +1,1 @@
+var json__48 = {"type":"FeatureCollection","name":"_48","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"المعهد الفنى الصناعي ببئرالعبد"},"geometry":{"type":"Point","coordinates":[33.010994700000026,31.024454100000071]}}]}

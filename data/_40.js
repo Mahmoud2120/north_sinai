@@ -1,0 +1,1 @@
+var json__40 = {"type":"FeatureCollection","name":"_40","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"مستشفي القسيمة","FolderPath":"مستشفيات قسم القسيمة"},"geometry":{"type":"Point","coordinates":[34.367555800000048,30.666778100000045]}}]}

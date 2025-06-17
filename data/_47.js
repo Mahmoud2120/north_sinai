@@ -1,0 +1,1 @@
+var json__47 = {"type":"FeatureCollection","name":"_47","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Azhar Institute in the village of Qatia, Romana , North Sinai","FolderPath":"معاهد قسم رمانة"},"geometry":{"type":"Point","coordinates":[32.749678200000062,30.954195900000059]}}]}

@@ -1,0 +1,1 @@
+var json__41 = {"type":"FeatureCollection","name":"_41","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"مستشفى العريش العام","FolderPath":"مستشفيات قسم رابع  العريش"},"geometry":{"type":"Point","coordinates":[33.617577,30.608472300000074]}}]}
